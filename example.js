@@ -1,1 +1,1 @@
-rectangle(100,100,50,50);
+canvasJS.rectangle(100,100,50,50);
