@@ -1,4 +1,4 @@
-var c = document.getElementsByTagName("canvas");
+var c = document.getElementsByTagName("canvas")[0];
 var ctx = c.getContext("2d");
 var canvasJS = {
 rectangle: function(x,y,h,w){ctx.fillRect(x,y,h,w);},
